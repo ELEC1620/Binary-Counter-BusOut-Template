@@ -1,0 +1,8 @@
+BUILD
+resources
+tests
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed-os
