@@ -1,8 +1,5 @@
 BUILD
 resources
-tests
-.travis.yml
-CMakeLists.txt
 .mbed
 compile_commands.json
 .clangd
